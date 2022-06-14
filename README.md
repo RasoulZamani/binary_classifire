@@ -5,8 +5,10 @@ this project is a interview task for implementing pre defined architecture :
 
 ![model layers](imgs/model_layers.PNG)
 
+for more details of each layer of model see:
 ![model layer details](imgs/model_layers_details.PNG)
 
+structures of Blocks are:
 ![blocks](imgs/blocks.PNG)
 
 
