@@ -3,7 +3,7 @@
 ## Goal
 this project is a interview task for implementing pre defined architecture :
 
-![model layers](imgs/model_layers_details.PNG)
+![model layers](imgs/model_layers.PNG)
 
 ![model layer details](imgs/model_layers_details.PNG)
 
